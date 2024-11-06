@@ -1,0 +1,27 @@
+{
+    "addCrocoWithoutName":{
+        "sex": "F",
+        "date_of_birth":"2024-10-12"
+    },
+
+    "addCrocoWithoutSex":{
+        "name": "",
+        "date_of_birth":"2024-10-12" 
+    },
+    "addCrocoWithoutBirthDate":{
+        "name": "",
+        "sex":"M" 
+    },
+    "addCrocoWithInvalidDateFormat":{
+        "name":"Croco with invalid date",
+        "sex":"M",
+        "date_of_birth":"2024/10/12" 
+    },
+    "addCrocoWithValidBody":{
+        "name":"",
+        "sex":"M",
+        "date_of_birth":"2024-10-12",
+        "age":"24" 
+    }
+
+}

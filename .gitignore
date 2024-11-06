@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Playwright report and test results
+test-results/
+playwright-report/
+
+# VSCode settings (if you're using VSCode)
+.vscode/
+
+# Playwright configuration
+playwright/.cache/   # Playwright cache files
+
+# Output from Playwright trace viewer
+trace.zip
+traces/
+
+# Output from Playwright videos and screenshots (if enabled)
+videos/
+screenshots/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+
+
+# Other build artifacts
+dist/
+build/
